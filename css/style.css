@@ -1,0 +1,229 @@
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.container{
+    margin-left: 250px;
+    min-width: 100px;
+    max-width: 900px;
+    height: 2500px;
+    background-color:white;
+}
+
+.header{
+    height: 500px;
+    display: flex;
+    position: relative;
+    bottom: 500px;
+    
+}
+ul{
+    margin-left: 470px;
+}
+
+a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: white;
+}
+
+button{
+    color: black;
+    background-color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 30px;
+    font-weight: bold;
+    margin-left: 50px;
+    width: 90px;
+    position: relative;
+    right: 20px;
+}
+
+.logo{
+    position: relative;
+    bottom: 450px;
+    left: 30px;
+}
+
+h1{
+    font-size: 35px;
+    color: white;
+    letter-spacing: 5PX;
+    position: relative;
+    bottom: 930px;
+    left: 260PX;
+
+}
+.arrow{
+    position: relative;
+    bottom: 900px;
+    left: 420PX;
+    width: 30px;
+}
+.orange{
+    
+}
+.maintransform{
+    display: flex;
+    position: relative;
+    bottom: 720px;
+}
+
+
+.transform{
+    width: 450px;
+    height: 380px;
+    background-color: white;
+    position: relative; 
+}
+.transform1{
+    position: relative;
+    left: 50px;
+    top: 70px;
+}
+
+.standout{
+    display: flex;
+    position: relative;
+    bottom: 720px;
+}
+
+.transform .span1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.transformp{
+    color: rgb(123, 119, 119);
+    width: 300px;
+    
+}
+.transform h3{
+    text-decoration: underline 5px yellow;
+}
+.cherry{
+    display: flex;
+    position: relative;
+    bottom: 720px;
+}
+
+.graphicpara{
+    width: 450px;
+    height:200px ;
+    position: relative;
+    bottom: 870px;
+}
+.photographypara{
+    width: 450px;
+    height:200px ;
+    position: relative;
+    bottom: 1073px;
+    left: 450px;
+}
+.image{
+    display: flex;
+    position: relative;
+    bottom: 1250px;
+}
+.image img{
+    width: 225px;
+}
+.client{
+    position: relative;
+    bottom: 1150px;
+    left: 350px;
+    color: grey;
+    word-spacing: 5px;
+    z-index: 3;
+}
+
+
+.directors{
+    display: flex;
+    background-color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: relative;
+    bottom: 1230px;
+}
+
+.directors img{
+    border-radius: 50%;
+    width: 40px;
+    margin-left: 120px;
+}
+
+ .emily, .thomas, .jennie{
+    max-width: 300px;
+}
+
+
+.emily, .thomas, .jennie, h5{
+    color: rgb(202, 196, 196);
+} 
+.name{
+    color: black;
+    position: relative;
+    top: 20px;
+    left: 100px;
+} 
+.positions{
+    position: relative;
+    left: 75px;
+    word-spacing: 7px;
+}
+
+
+
+
+.last{
+    width: 900px;
+    height: 300px;
+    background-color: #90d4c5;
+    position: relative;
+    bottom: 1300px;
+} 
+
+.last h2{
+    position: relative;
+    left: 350px;
+    top: 30px;
+    font-size: 45px;
+    width: 200px;
+    color: rgb(23, 112, 66);
+
+}
+.last ul{
+    display: flex;
+    margin-left: 25px;
+
+}
+
+.last ul li{
+    list-style: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(83, 130, 85);
+    margin-left: 50px;
+    position: relative;
+    top: 30px;
+    left: 200px;
+}
+
+.last img{
+    margin-left: 30px;
+    position: relative;
+    top: 70px;
+    left: 320px;
+}
+
+footer{
+    background-color: green;
+}
+
